@@ -1,0 +1,2 @@
+# nose-essentials
+Node Essentials
